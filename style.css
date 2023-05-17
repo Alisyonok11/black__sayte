@@ -1,0 +1,360 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 100%;
+    height: 3000px;
+    background: #171717;
+    
+}
+.h1{
+    width: 212px;
+    height: 47px;
+    margin-top: 28px;
+    font-family: 'DM Sans';
+    margin-left: 80px;
+    font-size: 36px;
+    color: white ;
+}
+.header{
+    width: 1440px;
+    margin-top: 28px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav__text{
+    color: white;
+    width: 83px;
+    height: 23px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.h1__block2{
+    
+    width: 453px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    color: white;
+}
+.block__2{
+   
+    height: 700px;
+    
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+}
+.img1{
+    width: 650px;
+    height: 650px;
+}
+.p__block2{
+    margin-left: 21px;
+    display: flex;
+    width: 205px;
+    height: 23px;
+    font-size: 18px;
+    color: #828282;
+    
+}
+.button__block2{
+    margin-left: 21px;
+    margin-top: 35px;
+    width: 143px;
+    height: 42px;
+    background: #27ae61;
+    border: #27ae61;
+}
+.button__block3{
+
+
+    margin-top: 35px;
+    width: 143px;
+    height: 42px;
+    background: #171717;
+    border: black solid 1px;
+}
+.p__button{
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: white;
+    text-align: center;
+}
+.img__block2{
+    width: 650px;
+    height: 650px;
+    
+}
+.pblock2{
+   
+    width: 650px;
+    height: 650px;
+}
+.shellForTwoBlocks{
+    display: flex;
+    
+    justify-content: space-around; 
+    margin-top: 124px;
+}
+
+.hi{
+    margin-top: 204px;
+    width: 453px;
+    height: 225px;
+    margin-left: 128px;
+   
+}
+
+.about{
+    margin-top: 47px;
+    align-items: center;
+    
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+}
+.h1__about{
+    width: 144px;
+    height: 62px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.p__about{
+    margin-top: 38px;
+    width: 745px;
+    height: 136px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.krug{
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+}
+
+.h2__about{
+    width: 142px;
+    height: 23px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 18px;
+}
+.h2__block{
+    align-items: center;
+    
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+}
+p{
+    color: white;
+}
+.tips{
+    display: flex;
+    justify-content: space-evenly;
+}
+.h2__krug{
+   color: white;
+    margin-top: 18px;
+}
+.block__tip{
+    width: 200px;
+    text-align: center;
+    margin-top: 38px;
+}
+.p__tips{
+    margin-top: 3px;
+}
+
+.h2__WhatIDo{
+    margin-top: 120px; 
+   
+    height: 60.03px;
+    font-family: 'DM Sans';
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.block__WhatIDo{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.shall__WhatIDo, .shall__WhatIDo1{
+    width: 349px;
+    height: 241px;
+    background: #212121;
+    margin-top: 102px;
+}
+.WhatIDo{
+    width: 100%;
+   
+}
+.img__WhatIDo{
+    margin-left: 50px;
+    margin-top: 34px;
+}
+.p__WhatIDo{
+    margin-top: 29px;
+    margin-left: 50px;
+    color: #535353;
+    font-size: 36px;
+    font-family: 'DM Sans';
+    font-style: normal;
+font-weight: 500;
+}
+.line{
+    width: 346px;
+    height: 5px;
+    background: #27AE60;
+    
+    margin-top: 31px;
+}
+.shall__WhatIDo1{
+    border: 1px solid #000000;
+}
+.h2__MySkills{
+    margin-top: 127px; 
+    font-family: 'DM Sans';
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.box__MySkills{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.shall_MySkills{
+    box-sizing: border-box;
+    width: 1168px;
+    height: 235px;
+    background: #212121;
+    border: 1px solid #333333;
+    margin-top: 73px;
+
+}
+.h1__MySkills{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 94px;
+    text-align: center;
+    color: #4F4F4F;
+}
+.text__MySkills{
+    margin-top: 46px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.text__MySkills__p{
+    display: flex;
+    justify-content: space-evenly;      
+}
+.text__p{
+    
+height: 31px;
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+color: #27AE60;
+margin-left: 20px;
+}
+.Getintouch{
+    width: 100%;
+}
+.h2__Getintouch{
+    margin-top: 87px; 
+    font-family: 'DM Sans';
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.input1, .input2{
+    width: 358px;
+    background-color: #171717;
+    border: none;
+    border-bottom: 1px solid #4F4F4F;
+    color: #4F4F4F;
+}
+.getgetget{
+    display: flex;
+    justify-content: space-between;
+    width: 753px;
+    height: 125px;
+    margin: 0 auto;
+    margin-top: 82px;
+}
+.input__Getintouch, .input__Getintouch1{
+    width: 358px;
+    height: 150px;
+}
+.input2{
+ margin-top: 47px;
+}
+
+.input__Message{
+    background-color: #171717;
+    border: none;
+    border: 1px solid #4F4F4F;
+    color: #4F4F4F;
+    width: 760px;
+    height: 109px;
+    margin-left: 380px;
+}
+.button__get{
+    width: 143px;
+    height: 42px;
+    background: #27ae61;
+    color: white;
+    border: 1px solid #27ae61;
+}
+.buutonGet{
+   margin-left: 680px;
+   margin-top: 29px;
+}
+.p__footer{
+    color: #4F4F4F;
+    text-align: center;
+    margin-top: 160px;
+}
